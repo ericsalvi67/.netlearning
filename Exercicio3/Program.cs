@@ -18,6 +18,8 @@ bool and = true && false;
 bool or = true || false;
 bool not = !true;
 
+Console.WriteLine($"{not}");
+
 
 
 
